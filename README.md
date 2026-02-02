@@ -1,6 +1,6 @@
 # Quantitative Trading Analysis on META Stock
 
-![meta](https://github.com/user-attachments/assets/a31d7070-2940-4da0-a961-3e8492a98f3a)
+<img width="1352" height="842" alt="image" src="https://github.com/user-attachments/assets/f85e83f6-17d3-478a-8f28-2cc50c05251d" />
 
 ## 📌 Overview
 
